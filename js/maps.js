@@ -9,7 +9,7 @@
                 scaleControl: false,
                 streetViewControl: false,
                 rotateControl: false,
-                center: new google.maps.LatLng(23.810332, 90.41251809999994),
+                center: new google.maps.LatLng(-23.57003077123106, -46.65135745145264),
                 styles: [
     {
         "featureType": "all",

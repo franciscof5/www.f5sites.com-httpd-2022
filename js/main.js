@@ -233,7 +233,7 @@ jQuery(document).ready(function ($) {
     };
 
     $('.instagram').spectragram('getUserFeed', {
-        query: 'adrianengine', //this gets adrianengine's photo feed
+        query: 'f5sites', //this gets adrianengine's photo feed
         size: 'small',
         max: 9,
     });
