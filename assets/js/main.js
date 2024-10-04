@@ -1,4 +1,3 @@
-jQuery(document).ready(function ($) {
     "use strict";
     $(".carousel-inner .item:first-child").addClass("active");
     /* Mobile menu click then remove
@@ -240,12 +239,11 @@ jQuery(document).ready(function ($) {
      $('.feature-area a').on('mouseenter', function () {
         $(this).tab('show');
     });
-}(jQuery));
+
 
 
 /* Preloader Js
 ===================*/
-jQuery(window).on("load", function () {
     $('.preloade').fadeOut(500);
     /* list_screen_slide Active
     =============================*/
@@ -272,5 +270,3 @@ jQuery(window).on("load", function () {
         }
     });
     
-
-});
